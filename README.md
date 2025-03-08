@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DollarDucks</h1>
 <h3 align="center">DollarDucks is a leading digital marketing agency dedicated to driving your business growth through innovative and data-driven strategies. Our expertise spans SEO, Social Media Marketing, Google Ads, Custom Web Design, and Shopify Development. We are committed to delivering high-converting digital solutions tailored to your unique needs. 🚀 Let’s Build the Future of Digital Marketing Together!</h3>
 
-- 🌱 I’m currently learning **Expressjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 🤝 I’m looking for help with **FullStack**
 
