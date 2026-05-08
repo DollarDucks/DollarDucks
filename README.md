@@ -1,24 +1,133 @@
-<h1 align="center">Hi 👋, I'm DollarDucks</h1>
-<h3 align="center">DollarDucks is a leading digital marketing agency dedicated to driving your business growth through innovative and data-driven strategies. Our expertise spans SEO, Social Media Marketing, Google Ads, Custom Web Design, and Shopify Development. We are committed to delivering high-converting digital solutions tailored to your unique needs. 🚀 Let’s Build the Future of Digital Marketing Together!</h3>
+<h1 align="center">Dollar Ducks</h1>
 
-- 🔭 I’m currently working on **DollarDucks Website**
+<h3 align="center">
+Building Modern Digital Solutions for Businesses Worldwide 🚀
+</h3>
 
-- 🌱 I’m currently learning **Nextjs**
-
-- 🤝 I’m looking for help with **FullStack**
-
-- 💬 Ask me about **react, nodejs**
-
-- 📫 How to reach me **support@dollarducks.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/infoducks_/status/1766695051587891356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infoducks_/status/1766695051587891356" height="30" width="40" /></a>
-<a href="https://instagram.com//dollar_ducks/?utm_source=ig_web_button_share_sheet&igsh=zdnlzdc0mzixnw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/dollar_ducks/?utm_source=ig_web_button_share_sheet&igsh=zdnlzdc0mzixnw%3d%3d" height="30" width="40" /></a>
+<p align="center">
+Dollar Ducks is a full-service digital agency with offices in the United States 🇺🇸 and India 🇮🇳, helping startups, small businesses, medium enterprises, and large organizations build scalable digital products and online growth systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com//dollarducks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/dollarducks" /></a><a href="https://ko-fi.com//dollarducks"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="/dollarducks" /></a></p><br><br>
+## 🌎 Who We Are
+
+At Dollar Ducks, we combine development, design, SEO, and AI-powered optimization to create websites and systems that help businesses grow online.
+
+We work with clients across multiple industries and provide tailored solutions based on their business needs — from simple websites to complex custom platforms.
+
+Our focus is not just development, but creating digital experiences that perform, rank, and convert.
+
+---
+
+## 💼 What We Do
+
+### 🌐 Website Development
+- Business Websites
+- Corporate Websites
+- Landing Pages
+- Directory Websites
+- E-Commerce Platforms
+- Custom UI/UX Design
+
+### ⚙️ Custom Web Applications
+- CRM Systems
+- Admin Dashboards
+- Booking Platforms
+- Internal Business Tools
+- Automation Systems
+- SaaS Platforms
+
+### 📈 SEO & AI SEO
+- Search Engine Optimization
+- AI SEO Optimization
+- LLM-Friendly Website Structuring
+- Technical SEO
+- Schema & Structured Data
+- Performance Optimization
+
+### 🧠 AI-Ready Development
+We build modern websites optimized for:
+- AI Search Engines
+- ChatGPT Discovery
+- LLM Crawlers
+- Semantic Search
+- Future Search Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+We primarily work with the **LAMP Stack**:
+
+- Linux
+- Apache
+- MySQL
+- PHP
+
+Additional technologies we frequently use:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🚀 Industries We Work With
+
+- Local Businesses
+- Home Services
+- Contractors
+- Healthcare
+- Real Estate
+- Automotive
+- E-Commerce
+- Agencies
+- Startups
+- Enterprise Businesses
+
+---
+
+## 🤝 Why Businesses Work With Us
+
+✅ Custom-Built Solutions  
+✅ Scalable Architecture  
+✅ SEO & AI Optimization  
+✅ Fast Development Process  
+✅ Long-Term Support  
+✅ Business-Focused Approach  
+
+---
+
+## 📫 Contact Us
+
+📧 Email: contact@dollarducks.com
+
+---
+
+## 🌐 Connect With Us
+
+<p align="left">
+<a href="https://instagram.com/dollar_ducks" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/infoducks_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+💡 Building Digital Products That Help Businesses Grow
+</h3>
